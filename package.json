@@ -11,6 +11,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "repository": {
+    
     "type": "git",
     "url": "git+https://github.com/betrybe/sd-0x-project-trybers-and-dragons.git"
   },
