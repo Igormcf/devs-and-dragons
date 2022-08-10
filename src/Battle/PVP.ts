@@ -13,7 +13,7 @@ class PVP extends Battle {
   }
 
   fight(): number {
-    if (this._play1.lifePoints > -1 && this._play2.lifePoints > -1) {
+    while (this._play1.lifePoints > -1 && this._play2.lifePoints > -1) {
       this._play1.attack(this._play2);
       this._play2.attack(this._play1);
     }
