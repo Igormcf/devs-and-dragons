@@ -21,3 +21,4 @@ Neste projeto foram aplicados os princípios da arquitetura ` SOLID` e os princ�
   
   - Instale as dependências com ` npm install` .
 </details>
+
